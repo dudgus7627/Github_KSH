@@ -1,0 +1,12 @@
+Github 에서 다운을 받으면 용량이 큰 파일 2개가 있습니다.
+메인프로젝트 완료보고서 와 시연영상이 있습니다.
+이 2개는 Github에서 따로 다운로드를 받아야 내용을 확인 하실 수 있습니다. 
+
+Source Code 확인 은
+Assets > 2.Scripts 파일에서
+Player, Weapon, Manager 3개의 파일의 소스코드를 담당했습니다.
+
+CREEPS 프로젝트 완료 보고서(아래의 주소 참고)
+https://github.com/dudgus7627/Github_KSH/blob/master/CREEPS%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%99%84%EB%A3%8C%20%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp
+CREEPS-Another World 시연영상 (아래의 주소 참고)
+https://github.com/dudgus7627/Github_KSH/blob/master/CREEPS-Another%20World%20%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4
